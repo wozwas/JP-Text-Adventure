@@ -1,0 +1,12 @@
+Options: 
+
+East
+West
+North
+South
+
+Yell
+Take
+Location
+
+Exit
